@@ -1,0 +1,2 @@
+# cc
+aiodb config center
